@@ -7,3 +7,9 @@ void main() {
     home: NewOrdersPage(),
   ));
 }
+
+
+// 1. Error
+// 2. no order / no data
+// 3. Waiting / Loader
+// 4. Data received 
